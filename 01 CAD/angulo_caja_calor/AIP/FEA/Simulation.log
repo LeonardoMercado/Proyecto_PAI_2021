@@ -1,0 +1,18 @@
+﻿El estudio Análisis estático:1 ha empezado: 4/05/2021, 10:33:21 p. m.
+Número de configuraciones: 1
+Malla por defecto: 1420 elementos, 3274 nodos
+Tiempo de solución 1
+Tasa de convergencia: 7,57%
+El problema ha convergido 
+El estudio        Worst Jacobian ratio :  2.02  on element 1374 ha terminado: 4/05/2021, 10:33:24 p. m.
+Tiempo total 0:00:03
+
+El estudio Análisis estático:1 ha empezado: 4/05/2021, 10:55:45 p. m.
+Número de configuraciones: 1
+Malla por defecto: 2488 elementos, 5609 nodos
+Tiempo de solución 2
+Tasa de convergencia: 0%
+El problema ha convergido 
+El estudio        Worst Jacobian ratio :  2.01  on element 1657 ha terminado: 4/05/2021, 10:55:48 p. m.
+Tiempo total 0:00:03
+
