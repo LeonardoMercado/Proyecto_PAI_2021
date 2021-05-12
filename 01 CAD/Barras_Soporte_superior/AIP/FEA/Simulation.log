@@ -1,0 +1,54 @@
+﻿El estudio Análisis estático:1 ha empezado: 11/05/2021, 1:25:33 a. m.
+Número de configuraciones: 1
+Malla por defecto: 65601 elementos, 94221 nodos
+Tiempo de solución 14
+Tasa de convergencia: 19,1%
+N.º de refinado h 1: 72344 elementos, 104086 nodos
+
+Tiempo de solución 13
+Tasa de convergencia: 16,4%
+N.º de refinado h 2: 91501 elementos, 131896 nodos
+
+Tiempo de solución 18
+Tasa de convergencia: 14,6%
+N.º de refinado h 3: 128852 elementos, 186021 nodos
+
+Tiempo de solución 28
+Tasa de convergencia: 18,3%
+N.º de refinado h 4: 243934 elementos, 351174 nodos
+
+Tiempo de solución 80
+Tasa de convergencia: 18,3%
+Se ha alcanzado el número total de refinados h 
+El estudio        Worst Jacobian ratio :  2.37  on element 6631 ha terminado: 11/05/2021, 1:29:03 a. m.
+Tiempo total 0:03:30
+
+El estudio Análisis estático:1 ha empezado: 11/05/2021, 2:14:11 a. m.
+Número de configuraciones: 1
+Malla por defecto: 53945 elementos, 78582 nodos
+Tiempo de solución 11
+Tasa de convergencia: 20,9%
+N.º de refinado h 1: 58072 elementos, 84743 nodos
+
+Tiempo de solución 10
+Tasa de convergencia: 10,7%
+N.º de refinado h 2: 72739 elementos, 106173 nodos
+
+Tiempo de solución 13
+Tasa de convergencia: 18,1%
+N.º de refinado h 3: 96358 elementos, 141141 nodos
+
+Tiempo de solución 18
+Tasa de convergencia: 18,5%
+N.º de refinado h 4: 187429 elementos, 273375 nodos
+
+Tiempo de solución 53
+Tasa de convergencia: 18,2%
+N.º de refinado h 5: 187429 elementos, 273375 nodos
+
+Tiempo de solución 46
+Tasa de convergencia: 0%
+El problema ha convergido 
+El estudio        Worst Jacobian ratio :  1.27  on element 35463 ha terminado: 11/05/2021, 2:17:40 a. m.
+Tiempo total 0:03:29
+
